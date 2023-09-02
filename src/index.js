@@ -37,3 +37,4 @@ setInterval(function () {
   johannesburgDateElement.innerHTML = johannesburgTime.format("MMMM Do YYYY");
   johannesburgTimeElement.innerHTML = johannesburgTime.format("h:mm:ss [<small>]A[</small]");
 }, 1000);
+
